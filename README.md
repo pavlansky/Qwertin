@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tomáš Pavlanský</h1>
 
 
-<img align="right" alt="Coding" width="250px"  src="./image.gif">
+
 
 
 
